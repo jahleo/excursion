@@ -1,16 +1,14 @@
-html{
-  font-family: Verdana;
-  color:white;
-  text-align:center;
-}
-
 body{
+  font-family: Verdana;
+  text-align:center;
   background-color: Black;
 }
 
 h1{
   font-weight: normal;
   font-size: 50px;
+  color:white;
+  font-weight: normal;
 }
 
 a{
@@ -21,9 +19,11 @@ a{
 h2{
   font-weight: 300;
   font-size: 42px;
+  font-weight: 300;
+  color:white;
 }
 
-h3{
+p{
   font-size: 21px;
   color:gray;
 }
